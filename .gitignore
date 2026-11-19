@@ -159,9 +159,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Conda environments
-conda-meta/
-
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -221,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/.idea
+.DS_Store
+/notebooks/data/lfw-deepfunneled
+/notebooks/data/for_students/faces
+/data/faces/
+/data/faces.zip
+/data/__MACOSX/
+/data/faces 2
